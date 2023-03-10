@@ -3,11 +3,11 @@ This project is a deep learning image classification system that is able to reco
 
 The model is built using TensorFlow and Keras, and is deployed using Flask to create a web application.
 
-#Website Screenshot
+# Website Screenshot
 
 ![image](https://user-images.githubusercontent.com/78245820/224389781-ed630806-b21e-4dd0-9b86-a44d0880c14d.png)
 
-##Output
+## Output
 
 ![image](https://user-images.githubusercontent.com/78245820/224390164-190f7f1f-80d0-4166-ae33-a355d9fca15c.png)
 
